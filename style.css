@@ -1,0 +1,53 @@
+
+
+.container-fluid{
+    padding: 5.5rem 1rem 3rem 0;
+}
+
+#About{
+    /* background-color: #FFFFFF; */
+    padding: 4.5rem 0 3.5rem 0;
+}
+
+
+#Liveliness{
+    margin-top : -2.1rem;
+    padding: 5.2rem 0 2.5rem 0;
+    background-color: #BFCFE7;
+}
+
+#Contact{
+    padding: 5.5rem 0 2.5rem 0;
+}
+
+footer {
+    background-color: #BFCFE7;
+    color: #fffff;
+    padding: 20px 0;
+
+    text-align: center;
+    border-top: 2px solid rgb(194, 186, 186);
+    }
+
+    footer p {
+    margin: 0;
+    }
+
+    footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    }
+
+    footer li {
+    margin: 5px 10px;
+    }
+
+     li a img:hover{
+        texcolor: white;
+    }
+
+
+   
